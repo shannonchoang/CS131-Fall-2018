@@ -6,7 +6,7 @@
 #FINAL VERSION as of 11:09 PM 
 
 api_url = "https://maps.googleapis.com/maps/api/place/nearbysearch/json?"
-key="AIzaSyAPy74WR-j4_anp895_BE2bx-ZBtmjpZUM"
+key=""
 
 import aiohttp 
 import asyncio
