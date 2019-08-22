@@ -1,0 +1,12 @@
+Using speedup, I calculated the ratio of plaintower's cputime to tower's cputime. 
+Results:
+98.8
+97.62
+98.05
+
+
+This is the function call for the first ambiguous towers I found. 
+ambiguous(4,C,T1,T2).
+C = counts([4,2,2,1],[1,2,2,4],[4,2,2,1],[1,2,2,4])
+T1 = [[1,2,3,4],[2,1,4,3],[3,4,1,2],[4,3,2,1]]
+T2 = [[1,2,3,4],[2,4,1,3],[3,1,4,2],[4,3,2,1]] 
