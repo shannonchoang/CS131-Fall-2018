@@ -1,0 +1,10 @@
+Hands
+Starting server:Hands at 1552629981.2653995
+Input to Hands: AT Holiday -32606051.498559713 kiwi.cs.ucla.edu +34.068930-118.445127 1520023934.918963997
+Received message:AT Holiday -32606051.498559713 kiwi.cs.ucla.edu +34.068930-118.445127 1520023934.918963997
+Input to Hands: AT Holiday -32606051.498559713 kiwi.cs.ucla.edu +34.068930-118.445127 1520023934.918963997
+Received message:AT Holiday -32606051.498559713 kiwi.cs.ucla.edu +34.068930-118.445127 1520023934.918963997
+Connection made with Wilkes
+AT output is:AT Holiday -32606051.498559713 kiwi.cs.ucla.edu +34.068930-118.445127 1520023934.918963997
+Hands sent message to its partner:Wilkes
+Message sent: AT Holiday -32606051.498559713 kiwi.cs.ucla.edu +34.068930-118.445127 1520023934.918963997Closing connection with Wilkes
